@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+sentence-transformers
+snowflake-connector-python
+snowflake-sqlalchemy
+sqlalchemy
